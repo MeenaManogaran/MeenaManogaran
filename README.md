@@ -1,4 +1,4 @@
-👋Hello World, I am Meena Manogaran 😎 
+👋Hello World, I am Meena Manogaran😎 
 - 💻 I code using Python
 - 👀 I’m interested in Machine Learning and Deep Learning
 - 🌱 I’m currently working at Renault on Machine Learning and Big data Visualization
